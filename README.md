@@ -1,0 +1,1 @@
+# dependabot-alerts-rule-test-after-disabling-auto-enablement
